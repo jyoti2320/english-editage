@@ -1,0 +1,326 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color:black;
+}
+
+    
+body {
+   font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.header {
+       padding: 80px;
+       text-align: center;
+       background-image:url("img5.jpg");
+       background-repeat:no-repeat;
+       background-size:cover;
+       background-position:fixed;
+       height:50%;
+       
+}
+.sec-part{
+   padding: 85px;
+   background-color: purple;
+   color:white;
+
+}
+.sec-part h6{
+
+   position: absolute;
+   right: 630px;
+   top:450px;
+   
+ 
+ text-transform: uppercase;
+
+
+}
+.sec-part h3{
+   font-weight: bold;
+   position: absolute;
+   right: 450px;
+   top:500px;
+   font-size: 1.5rem;
+ font-weight: 600;
+ text-transform: uppercase;
+}
+
+
+
+.sec-part .h5{
+   font-weight: bold;
+}
+.sec-part .row{
+   padding: 25px;
+   margin: 25px;
+ 
+}
+.sec-part .c{
+    border-left: 5px solid gray;
+   padding:8px;
+}
+.sec-part .d{
+   border-left: 5px solid yellowgreen;
+   padding:8px;
+}
+.sec-part .e{
+   border-left: 5px solid cyan;
+   padding:8px;
+}
+.sec-part .f{
+   border-left: 5px solid burlywood;
+   padding:8px;
+}
+.sec-part .overall{
+   padding: 0px;
+}
+.headings{
+   margin-top: 60px;
+ margin-bottom: 50px;
+}
+.headings h1{
+ font-size: 1.6rem;
+ font-weight: bold;
+ text-transform: uppercase;
+}
+
+.card{
+ transition: 0.4s ease;
+ box-shadow: 0 0 20px 0 rgba(0 ,0, 0,0.3 );
+ 
+ height: 300px;
+}
+.card-head{
+ font-size: 1.3rem;
+ font-weight: bold;
+ background: #fff;
+ padding: 25px 9!important;
+}
+.third-part{
+   padding-top : 40px;
+}
+.third-part p{
+   font-weight: bold;
+ font-size: 0.8rem;
+ padding: 10px 0 20px 0 ;
+}
+
+.forth-part{ 
+   height: 500px;
+   background: lightgray;
+}
+.forth-part h2{
+   font-weight: bold;
+}
+.forth-part .{
+   
+}
+.fifth-part{
+   padding: 60px;
+}
+.fifth-part .t{
+   font-weight: bold;
+   color: black;
+}
+.fifth-part .u{
+   color: gray;
+}
+.row .col-md-2{
+   width: 200px;
+   height: 100px;
+}
+.box{
+transition: 0.4s ease;
+ box-shadow: 0 0 20px 0 rgba(0 ,0, 0,0.3 );
+ width: 200px;
+ height: 200px;
+
+}
+.q{
+   border-left: 6px solid yellowgreen;
+}
+.w{
+   border-left: 6px solid violet;
+}
+.e{
+   border-left: 6px solid yellow;
+}
+.box p{
+   font-size: 0.8rem;
+}
+.six-part .center{
+   
+       padding:20px;
+       margin:0 auto;
+       color:black;
+       width:59%;
+       height:80%;
+   
+       position:absolute;
+       right:330px;
+       top:2550px;
+       border-radius:10px;
+       font-family:sans-serif;
+}
+.six-part h2{
+   font-weight: bold;
+   color: black;
+}
+.six-part .input{
+   color: gray;
+}
+.six-part .py{
+   font-weight: bold;
+}
+.seven-part{
+   position: absolute;
+   top:3200px;
+   background: lightgray;
+   width: 100%;
+   height: 20%;
+   text-align: center;
+}
+.seven-part .print{
+   padding: 50px;
+}
+.footer{
+   position: absolute;
+   top:3344px;
+   background:purple;
+   width:100%;
+}
+.footer li{
+   list-style: none;
+   color: white;
+}
+.footer hr{
+   background-color:white;
+}
+.footer p{
+   color: white;
+}
+.footer .o{
+   font-size: 25px;
+   color: red;
+}
+.fa-linkedin {
+background: #007bb5;
+color: white;
+}
+.forth-part a{
+font-size: 30px;
+margin:5px;
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+margin: 5px 10px;
+
+}
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+
+.fa-google {
+background: #dd4b39;
+color: white;
+}
+.fa-youtube {
+background: #bb0000;
+color: white;
+}
+
+.fa-instagram {
+background: #125688;
+color: white;
+}
+
+.fa-pinterest {
+background: #cb2027;
+color: white;
+}
+
+.fa-snapchat-ghost {
+background: #fffc00;
+color: white;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+background: #00aff0;
+color: white;
+}
+
+.fa-android {
+background: #a4c639;
+color: white;
+}
+
+.fa-dribbble {
+background: #ea4c89;
+color: white;
+}
+
+.fa-vimeo {
+background: #45bbff;
+color: white;
+}
+
+.fa-tumblr {
+background: #2c4762;
+color: white;
+}
+
+.fa-vine {
+background: #00b489;
+color: white;
+}
+
+.fa-foursquare {
+background: #45bbff;
+color: white;
+}
+
+.fa-stumbleupon {
+background: #eb4924;
+color: white;
+}
+
+.fa-flickr {
+background: #f40083;
+color: white;
+}
+
+.fa-yahoo {
+background: #430297;
+color: white;
+}
+
+.fa-soundcloud {
+background: #ff5500;
+color: white;
+}
+
+.fa-reddit {
+background: #ff5700;
+color: white;
+}
+
+.fa-rss {
+background: #ff6600;
+color: white;
+}
+.forth-part h6{
+color: blue;
+font-weight: bold;
+}
